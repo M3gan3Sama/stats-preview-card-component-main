@@ -61,7 +61,7 @@ section {
   gap: 1.5rem;
 }
 
-section :is(h1, h3) {
+section :is(h1, h2) {
   color: var(--white-main-heading-stats);
   font-weight: 700;
 }
@@ -75,7 +75,7 @@ h1 {
   font-size: 36px;
 }
 
-h3 {
+h2 {
   font-size: 24px;
   margin-bottom: 5px;
 }
